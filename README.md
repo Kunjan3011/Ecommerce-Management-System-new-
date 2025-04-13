@@ -194,14 +194,8 @@ VALUES
 
 ---
 
-## License
-This project is open-source and available for modification and enhancement.
-
----
 
 ## Support
 If you encounter issues or need assistance with the project, feel free to reach out!
 
----
 
-You can copy and paste this content into your `README.md` file. Let me know if you'd like additional features or changes included! 🚀
