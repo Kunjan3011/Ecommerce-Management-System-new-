@@ -1,6 +1,4 @@
-Here’s a complete README file tailored for your **E-commerce Management System** project:
 
----
 
 # E-commerce Management System
 
